@@ -1,5 +1,5 @@
 
-# [Booklist App] (https://book-app-sigma.vercel.app/)
+# [Booklist App] (https://book-app-sigma.vercel.app)
 A book search list that fetches book information from Google Books API and displays the results in a list.
 
 ## Installation
