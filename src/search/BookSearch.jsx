@@ -148,7 +148,7 @@ const Wrapper = styled.div`
           display: flex;
           flex-direction: column;
           position: relative;
-          bottom:50px;
+          bottom:40px;
           left:70px;
 
           span {
